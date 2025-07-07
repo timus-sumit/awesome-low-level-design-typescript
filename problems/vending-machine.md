@@ -19,6 +19,7 @@
 #### [C++ Implementation](../solutions/cpp/vendingmachine/)
 #### [C# Implementation](../solutions/csharp/vendingmachine/)
 #### [Go Implementation](../solutions/golang/vending_machine/)
+#### [Typescript Implementation](../solutions/typescript/vendingmachine/)
 
 ## Classes, Interfaces and Enumerations
 1. The **Product** class represents a product in the vending machine, with properties such as name and price.
